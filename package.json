@@ -1,0 +1,14 @@
+{
+  "name": "@kommendorkapten/entropy",
+  "version": "1.0.0",
+  "description": "Calculate the (Shannon) information entropy of a string.",
+  "main": "ent.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fredrik Skogman",
+  "license": "BSD-2-Clause"
+}
