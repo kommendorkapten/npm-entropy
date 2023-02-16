@@ -1,6 +1,6 @@
 {
   "name": "@kommendorkapten/entropy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calculate the (Shannon) information entropy of a string.",
   "main": "ent.js",
   "directories": {
